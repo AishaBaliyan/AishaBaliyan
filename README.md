@@ -14,5 +14,9 @@ Link [Here is youtube channel!!](https://www.youtube.com/@aishabaliyan3239)
 🎨 Design:
 	![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+🎯 What I'm currently doing:
+
+Currently making an app about logging your dreams
+
 
 ![baby aisha gif](https://github.com/user-attachments/assets/750d8b13-7df7-4b94-884a-470877cd61a4)

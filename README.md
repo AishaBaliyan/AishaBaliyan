@@ -3,7 +3,9 @@
 I am a grade ten student at Sacred Heart High School who is passionate about the field of computer science!!
 
 
-Link [Here is youtube channel!!](https://www.youtube.com/@aishabaliyan3239)
+
+
+📺  [Here is youtube channel!!](https://www.youtube.com/@aishabaliyan3239)
 
 💻 Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

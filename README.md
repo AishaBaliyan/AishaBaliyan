@@ -12,6 +12,9 @@ I am a grade ten student at Sacred Heart High School who is passionate about the
 💾 Databases:
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
+🎨 Design:
+	![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 <a href="https://github.com/AishaBaliyan/AishaBaliyan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishaBaliyan&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
@@ -19,8 +22,7 @@ I am a grade ten student at Sacred Heart High School who is passionate about the
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AishaBaliyan&count_private=true&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=stars" alt="Aisha's GitHub Stats" />
 </a>
 
-🎨 Design:
-	![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 🎯 What I'm currently doing:
 

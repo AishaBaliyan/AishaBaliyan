@@ -28,4 +28,3 @@ I am a grade ten student at Sacred Heart High School who is passionate about the
 Currently making an app about logging your dreams
 
 
-![baby aisha gif](https://github.com/user-attachments/assets/750d8b13-7df7-4b94-884a-470877cd61a4)

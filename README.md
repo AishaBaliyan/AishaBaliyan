@@ -25,6 +25,6 @@ I am a grade ten student at Sacred Heart High School who is passionate about the
 
 🎯 What I'm currently doing:
 
-Currently making an app about logging your dreams
+Currently over the rainbow
 
 
